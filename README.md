@@ -1,4 +1,8 @@
-# -LKALKNLK```text
+# -LKALKNLK
+
+Executable script extracted from this document: `crown_system.py`.
+
+```text
 MATHEMATICAL CORE: CRYSTALS-KYBER / ML-KEM – VULNERABILITY & HARDENING ANALYSIS
 Timestamp (America/Chicago): 2026-01-13T00:00:00-06:00
 Analysis Seal: MTH-CORE-Ω
