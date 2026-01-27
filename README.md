@@ -1,4 +1,8 @@
-# -LKALKNLK```text
+# -LKALKNLK
+
+Executable script extracted from this document: `crown_system.py`.
+
+```text
 MATHEMATICAL CORE: CRYSTALS-KYBER / ML-KEM – VULNERABILITY & HARDENING ANALYSIS
 Timestamp (America/Chicago): 2026-01-13T00:00:00-06:00
 Analysis Seal: MTH-CORE-Ω
@@ -443,7 +447,7 @@ To move from concept to verified mathematics:
 
 The API key model is a perfect, complete example of this process. The broader framework requires the same rigorous definition for each component, built upon established axioms of **set theory, linear algebra, or complex analysis**.
 
-If you can pick a **single symbol or equation** from your framework and describe its intended behavior in plain language, I can help you write its formal, verifiable mathematical definition.& WRITARA STAGING ---
+If you can pick a **single symbol or equation** from your framework and describe its intended behavior in plain language, I can help you write its formal, verifiable mathematical definition.
 # This section defines the authorized operators and the target system.
 # It is represented here as Python data structures.
 OPERATOR_REGISTRY = {
@@ -451,16 +455,8 @@ OPERATOR_REGISTRY = {
     "operators": [
         "Brendon Kelly",
         "Chris Cervantez",
-      ]
-        "Rob Preston"
+        "Rob Preston",
     ]
-}
-
-WRITARA_STAGING_SYSTEM = {
-    "description": "Staging environment details for the WRITARA system.",
-    "system_name": "WRITARA",
-    "runtime_id": "WRT-1T",
-    "source_sha": "[REDACTED]"
 }
 
 
@@ -536,8 +532,7 @@ def main():
     print("Next Step: Export coordinates to phase geometry overlay system.\n")
 
     # Display Phase 3 info
-    print("--- PHASE 3 – OPERATOR REGISTRY & WRITARA STAGING ---")
-    print(f"System: {WRITARA_STAGING_SYSTEM['system_name']} (Runtime: {WRITARA_STAGING_SYSTEM['runtime_id']})")
+    print("--- PHASE 3 – OPERATOR REGISTRY ---")
     print("Authorized Operators:")
     for operator in OPERATOR_REGISTRY['operators']:
         print(f"- {operator}")
@@ -554,7 +549,7 @@ def main():
         "author": "Brendon Joseph Kelly",
         "timestamp": datetime.datetime.now().isoformat(),
         "operators": OPERATOR_REGISTRY['operators'],
-        "system": WRITARA_STAGING_SYSTEM['system_name'],
+        "system": "CROWN",
         "phase_2_points": rhl_coords.tolist() # include the generated data
     }
     
