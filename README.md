@@ -1,4 +1,4 @@
-# -LKALKNLK
+
 
 Executable script extracted from this document: `crown_system.py`.
 
